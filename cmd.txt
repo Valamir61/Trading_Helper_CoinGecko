@@ -1,0 +1,7 @@
+cd /D D:\DocumentsHDD\Zinedine
+python D:\DocumentsHDD\Zinedine\menu.py
+2
+4
+
+
+pyinstaller --debug --onefile --noupx test.py

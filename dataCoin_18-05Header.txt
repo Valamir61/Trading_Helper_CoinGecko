@@ -1,0 +1,1 @@
+date;bitcoin;ethereum;binancecoin;solana;chiliz;
