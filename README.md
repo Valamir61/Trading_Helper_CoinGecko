@@ -1,3 +1,3 @@
 
-# Trading_Helper_ZinedineZidane-420
+# Trading_Helper
  Trading tool for the best
